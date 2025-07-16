@@ -4,7 +4,7 @@
 
 Built with a modern fullstack setup:
 - **Frontend**: React + TypeScript (using Vite)
-- **Backend**: Node.js + Express
+- **Backend**: Django (Python)
 - **Database**: PostgreSQL
 
 ---
